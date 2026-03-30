@@ -17,7 +17,7 @@ wsl --install -d Ubuntu-20.04
 ---
 
 ##强烈推荐
-https://www.yuque.com/xtdrone/manual_cn/install_scripts#
+[PX4 1.13版本 一键安装脚本](https://www.yuque.com/xtdrone/manual_cn/install_scripts#)
 在这个网址有一键安装脚本，使用方式见网址内部
 ## 第一步：安装 ROS Noetic
 
