@@ -1,6 +1,6 @@
 # 环境搭建指南（从零开始）
 
-本文档帮助队友在全新的 Windows + WSL2 环境上搭建完整的多机仿真环境。
+本文档帮助在全新的 Windows + WSL2 环境上搭建完整的多机仿真环境。
 
 ---
 
@@ -16,6 +16,9 @@ wsl --install -d Ubuntu-20.04
 
 ---
 
+**推荐**
+https://www.yuque.com/xtdrone/manual_cn/install_scripts#
+在这个网址有一键安装脚本，使用方式见网址内部
 ## 第一步：安装 ROS Noetic
 
 ```bash
