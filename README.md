@@ -7,7 +7,7 @@
 
 ## 快速开始
 
-### 方式一：Docker（推荐新手队友使用）
+### 方式一：Docker（推荐）
 
 无需配置环境，一行命令启动。详见 [Docker 使用说明](docs/DOCKER.md)。
 
@@ -22,7 +22,7 @@ docker run -it --rm \
   drone-de-icing
 ```
 
-### 方式二：本地环境（适合已有 XTDrone 环境的队友）
+### 方式二：本地环境（适合已有 XTDrone 环境）
 
 如果你已经有 WSL2 + Ubuntu 20.04 + ROS Noetic + PX4 1.13 的环境，可以直接使用。  
 详细环境搭建步骤见 [环境搭建指南](docs/SETUP.md)。
